@@ -1,0 +1,1 @@
+for(var c="ff0000",w=16,h=16,x=player.tmx+screen.viewx;x<player.tmx+screen.viewx+assets.gridSize*w/16;x+=assets.gridSize/16)for(var y=player.tmy+screen.viewy;y<player.tmy+screen.viewy+assets.gridSize*h/16;y+=assets.gridSize/16)paint(c,x,y);
